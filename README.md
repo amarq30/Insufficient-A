@@ -1,2 +1,2 @@
-# txtAdvent
+# Insufficient A
 Game Design
